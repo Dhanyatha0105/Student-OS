@@ -1,0 +1,12 @@
+{
+    "name": "@student-os/resume-service",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "echo 'Resume Service — not yet implemented'",
+        "build": "echo 'Resume Service — not yet implemented'"
+    },
+    "dependencies": {
+        "@student-os/shared": "workspace:*"
+    }
+}

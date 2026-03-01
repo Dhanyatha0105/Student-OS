@@ -1,0 +1,12 @@
+{
+    "name": "@student-os/study-engine",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "echo 'Study Engine — not yet implemented'",
+        "build": "echo 'Study Engine — not yet implemented'"
+    },
+    "dependencies": {
+        "@student-os/shared": "workspace:*"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "@student-os/roadmap-engine",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "echo 'Roadmap Engine — not yet implemented'",
+        "build": "echo 'Roadmap Engine — not yet implemented'"
+    },
+    "dependencies": {
+        "@student-os/shared": "workspace:*"
+    }
+}

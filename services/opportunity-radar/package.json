@@ -1,0 +1,12 @@
+{
+    "name": "@student-os/opportunity-radar",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "echo 'Opportunity Radar — not yet implemented'",
+        "build": "echo 'Opportunity Radar — not yet implemented'"
+    },
+    "dependencies": {
+        "@student-os/shared": "workspace:*"
+    }
+}

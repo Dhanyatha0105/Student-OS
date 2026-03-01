@@ -1,0 +1,12 @@
+{
+    "name": "@student-os/auth-service",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "echo 'Auth Service — not yet implemented'",
+        "build": "echo 'Auth Service — not yet implemented'"
+    },
+    "dependencies": {
+        "@student-os/shared": "workspace:*"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "@student-os/ai-orchestrator",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "echo 'AI Orchestrator — not yet implemented'",
+        "build": "echo 'AI Orchestrator — not yet implemented'"
+    },
+    "dependencies": {
+        "@student-os/shared": "workspace:*"
+    }
+}
