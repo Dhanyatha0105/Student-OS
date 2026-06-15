@@ -2,6 +2,8 @@
 
 > **Instagram is for creators. LinkedIn is for professionals. Student OS is for students.**
 
+**Live demo:** https://student-os-flame-chi.vercel.app — _Demo: runs on bundled sample data._
+
 A graph/map-based social platform where every student's academic and career journey is visualized as an interactive roadmap — and every feature of the platform feeds into making that roadmap actionable.
 
 ---
